@@ -1,4 +1,4 @@
-# arduometer
+#The Arduino Odometer
 The Arduino Odometer with SaveToMemory, LoadFromMemory, Backlight and Speedometer.
 
 Uses an Arduino, pushbuttons, a HITACHI LCD (HD44780 compatible), a simple 10K potentiometer, a magnetic reed switch, and a powerful magnet for the spokes of the cycle.
